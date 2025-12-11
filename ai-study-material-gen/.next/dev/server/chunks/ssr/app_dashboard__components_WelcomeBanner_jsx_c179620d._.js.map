@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/KIIT0001/QuizHive/ai-study-material-gen/app/dashboard/_components/WelcomeBanner.jsx"],"sourcesContent":["'use client';\r\nimport React from 'react';\r\nimport Image from 'next/image';\r\nimport { useUser } from '@clerk/nextjs';\r\n\r\nfunction WelcomeBanner() {\r\n\r\n  const {user} = useUser();\r\n\r\n  return (\r\n    <div className='p-5 w-full text-white bg-primary rounded-lg flex items-center gap-6'>\r\n      <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />\r\n      <div>\r\n        <h2 className='font-bold text-3xl'>Hello, {user?.fullName}</h2>\r\n        <p>Welcome Back, It's time to get back and start learning new course</p>\r\n      </div>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default WelcomeBanner"],"names":[],"mappings":";;;;;AACA;AACA;AACA;AAHA;;;;;AAKA,SAAS;IAEP,MAAM,EAAC,IAAI,EAAC,GAAG,IAAA,kLAAO;IAEtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC,wIAAK;gBAAC,KAAK;gBAAe,KAAI;gBAAS,OAAO;gBAAK,QAAQ;;;;;;0BAC5D,8OAAC;;kCACC,8OAAC;wBAAG,WAAU;;4BAAqB;4BAAQ,MAAM;;;;;;;kCACjD,8OAAC;kCAAE;;;;;;;;;;;;;;;;;;AAIX;uCAEe"}}]
+}

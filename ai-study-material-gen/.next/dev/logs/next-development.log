@@ -1,0 +1,4456 @@
+[00:00:02.878] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:03.247] Server  LOG      ✓ Ready in 2.3s
+[00:00:15.655] Server  LOG      ○ Compiling /dashboard ...
+[00:00:24.884] Server  ERROR    ⨯ ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:26.844] Browser ERROR   uncaughtError: Error: ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:27.371] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:27.371] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:29.622] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:35.372] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:40.383] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:45.370] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:50.371] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:55.379] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:00.366] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:05.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:10.379] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:15.220] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:20.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:25.381] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:31.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:36.383] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:41.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:46.374] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:51.373] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:56.371] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:01.371] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:06.378] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:11.378] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:16.375] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:21.383] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:25.378] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:26.374] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:27.381] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Module not found: Can't resolve '../../../components/ui/progress'
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:29.354] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:29.360] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:29.363] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:29.365] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:30.379] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:30.379] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:30.379] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:31.375] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:31.375] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:31.375] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:36.378] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:36.378] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:36.378] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:41.379] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:41.379] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:41.379] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:46.382] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:46.382] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:46.382] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:51.373] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:51.373] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:51.373] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:56.439] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:56.439] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:56.439] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:57.442] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+
+./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+
+
+./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+
+
+[00:02:58.831] Browser ERROR   uncaughtError: Error: ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:02:59.001] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:59.001] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:59.001] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:59.001] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:59.001] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:02:59.001] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:02.810] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '@/components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "@/components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:02.810] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:02.810] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:05.387] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:05.389] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:05.392] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:05.394] Server  ERROR    ⨯ ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:06.376] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:06.376] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:06.376] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:07.374] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:07.374] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:07.374] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:12.370] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:12.370] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:12.370] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:17.376] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:17.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:17.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:22.377] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:22.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:22.377] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:27.376] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:27.376] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:27.376] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:32.380] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:32.380] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:32.380] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:37.372] Browser ERROR   ./components/ui/progress.jsx:5:1
+Module not found: Can't resolve '../components/ui/progress'
+  3 | import * as React from "react"
+  4 |
+> 5 | import { Progress } from "../components/ui/progress"
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export function ProgressDemo() {
+  8 |   const [progress, setProgress] = React.useState(13)
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:37.372] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-client] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:37.372] Browser ERROR   ./app/dashboard/_components/SideBar.jsx:9:1
+Export Progress doesn't exist in target module
+   7 |
+   8 | import { Button } from "../../../components/ui/button";
+>  9 | import { Progress } from "../../../components/ui/progress"; // file you'll create
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  10 | import { LayoutDashboard, Shield, UserCircle } from "lucide-react";
+  11 |
+  12 | function SideBar() {
+
+The export Progress was not found in module [project]/components/ui/progress.jsx [app-ssr] (ecmascript).
+Did you mean to import ProgressDemo?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/SideBar.jsx
+    ./app/dashboard/layout.jsx
+[00:03:40.106] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:40.108] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:40.112] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:40.114] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:40.373] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:42.380] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:47.381] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:52.373] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:03:57.374] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:02.370] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:07.375] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:13.381] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:18.381] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:23.371] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:27.560] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:33.025] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:33.027] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:33.028] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:33.030] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:33.367] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '@/lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "@/lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:33.367] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:37.734] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:43.377] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:48.381] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:53.380] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:58.381] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:03.372] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:08.381] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:13.436] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:18.380] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:23.377] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:29.376] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:34.401] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:39.384] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:44.375] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:49.370] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:54.394] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:05:59.382] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:04.420] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:09.378] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:14.377] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:19.374] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:24.382] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:29.373] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:34.394] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../lib/utils'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../lib/utils";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:35.818] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:35.821] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:35.822] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:35.827] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:36.377] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:39.383] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:42.706] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:42.709] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:42.712] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:42.714] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:43.379] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:44.377] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:49.371] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../ui/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../ui/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:50.367] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:50.369] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:50.370] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:50.371] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:51.398] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:52.441] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:52.442] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:52.443] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:52.444] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:53.370] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:54.396] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:58.750] Server  LOG      ✓ Compiled in 59ms
+[00:07:00.904] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:00.905] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:00.907] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:00.908] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:01.240] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:01.423] Server  ERROR    ⨯ ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:07:01.596] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:07:01.596] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:01.596] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <ClerkProviderBase publishableKey="pk_test_c2..." proxyUrl="" domain="" isSatellite={false} signInUrl="/sign-in" ...>
+      <ClerkContextProvider initialState={null} isomorphicClerkOptions={{...}}>
+        <OrganizationProvider organization={undefined}>
+          <SWRConfigCompat swrConfig={undefined}>
+            <SWRConfig value={undefined}>
+              <__experimental_CheckoutProvider value={undefined}>
+                <RouterTelemetry>
+                <ClerkJSScript>
+                <html lang="en">
+                  <body
+                    className="outfit_21940f47-module__B-V10W__className"
+-                   style={{overflow-x:"hidden",overflow-y:"hidden"}}
+                  >
+
+[00:07:01.596] Browser WARN    Image with src "http://localhost:3000/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:07:01.596] Browser ERROR   unhandledRejection: Error: An unexpected response was received from the server.
+[00:07:01.596] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:07:02.377] Browser ERROR   ./components/ui/progress.jsx:4:1
+Module not found: Can't resolve '../../lib/utils/'
+  2 |
+  3 | import * as React from "react";
+> 4 | import { cn } from "../../lib/utils/";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | export function Progress({ value, className, ...props }) {
+  7 |   return (
+
+Import traces:
+  Client Component Browser:
+    ./components/ui/progress.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Client Component Browser]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./components/ui/progress.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Client Component SSR]
+    ./app/dashboard/_components/SideBar.jsx [Server Component]
+    ./app/dashboard/layout.jsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:12.827] Server  LOG      ✓ Compiled in 80ms
+[00:09:27.599] Server  LOG      ✓ Compiled in 86ms
+[00:09:32.645] Server  LOG      ✓ Compiled in 46ms
+[00:09:51.145] Server  LOG      ✓ Compiled in 72ms
+[00:09:54.294] Server  LOG      ✓ Compiled in 60ms
+[00:09:56.687] Server  LOG      ✓ Compiled in 102ms
+[00:10:04.229] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:10:04.229] Browser WARN    Image with src "http://localhost:3000/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:08.163] Server  LOG      ✓ Compiled in 120ms
+[00:11:21.941] Server  LOG      ✓ Compiled in 83ms
+[00:11:34.897] Server  LOG      ✓ Compiled in 57ms
+[00:12:00.381] Browser ERROR   ./app/dashboard/_components/DashboardSidebar.jsx:7:5
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <User
+>  7 |     </div>
+     |     ^
+   8 |   )
+   9 | }
+  10 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/DashboardSidebar.jsx
+    ./app/dashboard/layout.jsx
+[00:12:00.381] Browser ERROR   ./app/dashboard/_components/DashboardSidebar.jsx:7:6
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <User
+>  7 |     </div>
+     |      ^^^^^
+   8 |   )
+   9 | }
+  10 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/DashboardSidebar.jsx
+    ./app/dashboard/layout.jsx
+[00:12:03.371] Browser ERROR   ./app/dashboard/_components/DashboardSidebar.jsx:7:5
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <User
+>  7 |     </div>
+     |     ^
+   8 |   )
+   9 | }
+  10 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/DashboardSidebar.jsx
+    ./app/dashboard/layout.jsx
+[00:12:03.371] Browser ERROR   ./app/dashboard/_components/DashboardSidebar.jsx:7:6
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <User
+>  7 |     </div>
+     |      ^^^^^
+   8 |   )
+   9 | }
+  10 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/DashboardSidebar.jsx
+    ./app/dashboard/layout.jsx
+[00:12:03.821] Server  LOG      ✓ Compiled in 116ms
+[00:12:06.594] Server  LOG      ✓ Compiled in 45ms
+[00:13:52.380] Browser ERROR   ./app/dashboard/page.jsx:7:5
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <
+>  7 |     </div>
+     |     ^
+   8 |   )
+   9 | }
+  10 |
+
+Expression expected
+[00:13:52.380] Browser ERROR   ./app/dashboard/page.jsx:7:6
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <
+>  7 |     </div>
+     |      ^^^^^
+   8 |   )
+   9 | }
+  10 |
+
+Unterminated regexp literal
+[00:13:54.387] Browser ERROR   ./app/dashboard/page.jsx:7:5
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <
+>  7 |     </div>
+     |     ^
+   8 |   )
+   9 | }
+  10 |
+
+Expression expected
+[00:13:54.387] Browser ERROR   ./app/dashboard/page.jsx:7:6
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <
+>  7 |     </div>
+     |      ^^^^^
+   8 |   )
+   9 | }
+  10 |
+
+Unterminated regexp literal
+[00:13:56.380] Browser ERROR   ./app/dashboard/page.jsx:7:5
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <Wel
+>  7 |     </div>
+     |     ^
+   8 |   )
+   9 | }
+  10 |
+
+Expression expected
+[00:13:56.380] Browser ERROR   ./app/dashboard/page.jsx:7:6
+Parsing ecmascript source code failed
+   5 |     <div>
+   6 |       <Wel
+>  7 |     </div>
+     |      ^^^^^
+   8 |   )
+   9 | }
+  10 |
+
+Unterminated regexp literal
+[00:14:37.746] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:14:37.752] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:14:38.374] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:20:21.378] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:22
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={} />
+    |                      ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:20:25.381] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:22
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={} />
+    |                      ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:20:26.975] Server  LOG      ✓ Compiled in 58ms
+[00:20:27.966] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:20:27.968] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:20:30.386] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:20:30.386] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:20:33.718] Server  LOG      ✓ Compiled in 51ms
+[00:20:33.890] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:20:33.891] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:20:36.372] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:20:36.372] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:20:46.432] Server  LOG      ✓ Compiled in 49ms
+[00:20:46.579] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:20:46.580] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:20:48.370] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:20:48.370] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:20:54.074] Server  LOG      ✓ Compiled in 62ms
+[00:20:54.210] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:20:54.210] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:20:56.378] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:20:56.378] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:20:56.378] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:55
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={'/laptop.jpg'} alt='laptop' width= />
+    |                                                       ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:21:00.380] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:55
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={'/laptop.jpg'} alt='laptop' width= />
+    |                                                       ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:21:01.367] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:70
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={'/laptop.jpg'} alt='laptop' width={100} height={} />
+    |                                                                      ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:21:04.373] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:68
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={'/laptop.jpg'} alt='laptop' width={100} height= />
+    |                                                                    ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:21:05.374] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:68
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={'/laptop.jpg'} alt='laptop' width={100} height= />
+    |                                                                    ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:21:06.381] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:6:70
+Parsing ecmascript source code failed
+  4 |   return (
+  5 |     <div>
+> 6 |       <Image src={'/laptop.jpg'} alt='laptop' width={100} height={} />
+    |                                                                      ^
+  7 |     </div>
+  8 |   )
+  9 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:21:07.652] Server  LOG      ✓ Compiled in 53ms
+[00:21:07.823] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:07.824] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:21:10.375] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:21:10.375] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:21:12.573] Server  LOG      ✓ Compiled in 37ms
+[00:21:12.733] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:12.734] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:21:15.277] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:21:15.277] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:21:15.311] Server  LOG      ✓ Compiled in 57ms
+[00:21:15.472] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:15.474] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:21:17.371] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:21:17.371] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:21:28.862] Server  LOG      ✓ Compiled in 47ms
+[00:21:29.323] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:29.324] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:21:31.369] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:21:31.369] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:21:39.288] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:21:39.289] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[00:21:43.367] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[00:21:43.367] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:21:57.740] Browser WARN    Image with src "http://localhost:3000/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:21:57.740] Browser WARN    Image with src "/laptop.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:21:57.740] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:21:57.740] Browser WARN    Image with src "/laptop.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:24:41.659] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:24:41.659] Browser WARN    Image with src "http://localhost:3000/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:24:41.659] Browser WARN    Image with src "/laptop.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:21.819] Server  LOG      ✓ Compiled in 67ms
+[00:27:29.394] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:27:29.394] Browser WARN    Image with src "http://localhost:3000/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:29.394] Browser WARN    Image with src "/laptop.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:29:04.068] Server  LOG      ✓ Compiled in 49ms
+[00:29:51.379] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:8:3
+Parsing ecmascript source code failed
+   6 |   const {user} = 
+   7 |
+>  8 |   return (
+     |   ^^^^^^
+   9 |     <div className='p-5 w-full text-white bg-primary rounded-lg'>
+  10 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  11 |     </div>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:29:51.379] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:8:3
+Parsing ecmascript source code failed
+   6 |   const {user} = 
+   7 |
+>  8 |   return (
+     |   ^^^^^^
+   9 |     <div className='p-5 w-full text-white bg-primary rounded-lg'>
+  10 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  11 |     </div>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:29:51.863] Server  LOG      ✓ Compiled in 39ms
+[00:29:52.005] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:29:52.006] Server  ERROR    ⨯ ReferenceError: us is not defined
+[00:29:52.377] Browser ERROR   uncaughtError: ReferenceError: us is not defined
+[00:29:59.167] Server  LOG      ✓ Compiled in 200ms
+[00:29:59.382] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:29:59.384] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:29:59.387] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:02.373] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:02.373] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:16.248] Server  LOG      ✓ Compiled in 44ms
+[00:30:16.552] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:16.552] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:16.553] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:18.369] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:18.369] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:22.757] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:22.758] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:22.758] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:25.378] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:25.378] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:29.368] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:13:25
+Parsing ecmascript source code failed
+  11 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  12 |       <div>
+> 13 |         <h2>Helo, {user</h2>
+     |                         ^^^^
+  14 |       </div>
+  15 |     </div>
+  16 |   )
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:30:31.380] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:13:25
+Parsing ecmascript source code failed
+  11 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  12 |       <div>
+> 13 |         <h2>Helo, {user</h2>
+     |                         ^^^^
+  14 |       </div>
+  15 |     </div>
+  16 |   )
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:30:31.380] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:13:26
+Parsing ecmascript source code failed
+  11 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  12 |       <div>
+> 13 |         <h2>Helo, {user?.</h2>
+     |                          ^
+  14 |       </div>
+  15 |     </div>
+  16 |   )
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:30:31.380] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:13:27
+Parsing ecmascript source code failed
+  11 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  12 |       <div>
+> 13 |         <h2>Helo, {user?.</h2>
+     |                           ^^^^
+  14 |       </div>
+  15 |     </div>
+  16 |   )
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:30:33.381] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:13:29
+Parsing ecmascript source code failed
+  11 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  12 |       <div>
+> 13 |         <h2>Helo, {user?.fu</h2>
+     |                             ^^^^
+  14 |       </div>
+  15 |     </div>
+  16 |   )
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:30:34.376] Browser ERROR   ./app/dashboard/_components/WelcomeBanner.jsx:13:35
+Parsing ecmascript source code failed
+  11 |       <Image src={'/laptop.png'} alt='laptop' width={100} height={100} />
+  12 |       <div>
+> 13 |         <h2>Helo, {user?.fullName</h2>
+     |                                   ^^^^
+  14 |       </div>
+  15 |     </div>
+  16 |   )
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./app/dashboard/_components/WelcomeBanner.jsx
+    ./app/dashboard/page.jsx
+[00:30:35.249] Server  LOG      ✓ Compiled in 54ms
+[00:30:35.559] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:35.560] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:35.560] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:37.382] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:37.382] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:38.705] Server  LOG      ✓ Compiled in 38ms
+[00:30:38.876] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:38.877] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:38.878] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:41.373] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:41.373] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:46.167] Server  LOG      ✓ Compiled in 38ms
+[00:30:46.320] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:46.320] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:46.321] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:48.382] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:48.382] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:49.434] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:30:49.469] Server  LOG      ✓ Compiled in 86ms
+[00:30:49.663] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:49.663] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:49.664] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:51.380] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:51.380] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:30:54.610] Server  LOG      ✓ Compiled in 39ms
+[00:30:54.864] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:54.865] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:30:54.866] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:57.375] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:30:57.375] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:01.648] Server  LOG      ✓ Compiled in 48ms
+[00:31:01.840] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:01.840] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:01.841] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:04.374] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:04.374] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:11.253] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:11.254] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:11.256] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:13.367] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:13.367] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:33.506] Server  LOG      ✓ Compiled in 42ms
+[00:31:33.732] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:33.733] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:33.733] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:36.378] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:36.378] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:48.670] Server  LOG      ✓ Compiled in 53ms
+[00:31:48.822] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\node_modules_335c514a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:48.822] Server  ERROR   C:\Users\KIIT0001\QuizHive\ai-study-material-gen\.next\dev\server\chunks\ssr\[root-of-the-server]__fcbd18fb._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:31:48.823] Server  ERROR    ⨯ Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:51.379] Browser ERROR   uncaughtError: Error: Attempted to call useUser() from the server but useUser is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+[00:31:51.379] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:54.751] Browser WARN    Clerk: Clerk has been loaded with development keys. Development instances have strict usage limits and should not be used when deploying your application to production. Learn more: https://clerk.com/docs/deployments/overview
+[00:31:54.751] Browser WARN    Image with src "http://localhost:3000/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:54.751] Browser WARN    Image with src "/laptop.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:54.928] Browser WARN    Image with src "/laptop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:09.986] Server  LOG      ✓ Compiled in 90ms
+[00:32:26.183] Server  LOG      ✓ Compiled in 52ms
+[00:32:42.570] Server  LOG      ✓ Compiled in 50ms
+[00:32:50.136] Server  LOG      ✓ Compiled in 54ms
+[00:32:53.886] Server  LOG      ✓ Compiled in 90ms
